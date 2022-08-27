@@ -1,2 +1,2 @@
 # Jumbo
-Jumbo is a flask implementation of a blogging website.
+Jumbo is a flask implementation for a blogging website.
